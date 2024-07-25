@@ -1,1 +1,1 @@
-# 📟MEDIA EDU
+# 📟Media Edu
