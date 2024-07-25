@@ -45,8 +45,9 @@ body {
 }
 
 .next:hover {
-  background-color: #cfc8c9; /* Warna latar belakang saat hover */
+  background-color: #7e7e7e; /* Warna latar belakang saat hover */
   transform: scale(1.05); /* Sedikit memperbesar tombol saat hover */
+  border: 2px solid #ffffff;
 }
 .next a {
   text-decoration: none;
